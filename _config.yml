@@ -1,0 +1,14 @@
+layout_spectrum: 0.2655950258485973
+typography_spectrum: 0.7675114434678108
+color:
+  brandStrength: 0.13108792551793158
+  lightness: 0.4573156426195055
+  saturation: 0.26158294058404863
+  rhythmicContrast: 0.43883140198886395
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: triWorld
